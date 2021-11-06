@@ -1,0 +1,10 @@
+get beautiful soup and other libraries into python using pip
+scrape jobstackit ◙, linked in, jobs.cz, startupjobs.cz "data analyst" positions in prague
+	job name, description- clean it
+get name, company, wage, date posted, description
+make a simple website with django
+put the every-4-days-updating job postings on the website
+do it with more websites, put it in the same website
+then analyze with sql the trends, make some questions
+put the trends on the website using tableu (?)
+profit
